@@ -1,6 +1,6 @@
-# LadyDI
+# LaDI
 
-Lady DI (Dependency Injection) is a simple and efficient object factory and container
+LaDI (Dependency Injection) is a simple and efficient object factory and container
 
 A classic example for circular references: a depends on b, b depends on c, c depends on a
 
